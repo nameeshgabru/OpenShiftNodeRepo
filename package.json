@@ -1,0 +1,22 @@
+{
+  "name": "openshiftnoderepo",
+  "version": "1.0.0",
+  "description": "openShiftWebhookedRepo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nameeshgabru/OpenShiftNodeRepo.git"
+  },
+  "author": "Nameesh Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nameeshgabru/OpenShiftNodeRepo/issues"
+  },
+  "homepage": "https://github.com/nameeshgabru/OpenShiftNodeRepo#readme",
+  "dependencies": {
+    "serve": "^6.1.0"
+  }
+}
